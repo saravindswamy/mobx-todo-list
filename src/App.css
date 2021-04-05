@@ -2,6 +2,14 @@
   text-align: center;
 }
 
+.mob {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: auto;
+  height: 150px;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
